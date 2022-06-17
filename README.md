@@ -1,2 +1,0 @@
-# ganjaweasel.github.io
-website
